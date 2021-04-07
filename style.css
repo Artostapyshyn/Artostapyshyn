@@ -1,0 +1,71 @@
+.nametag {
+  color: green;
+  font-size: 35px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  padding-top: 15px;
+  font-weight: bold;
+}
+
+.name {
+  color: #ff4500;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-left: 80px;
+}
+
+.text {
+  font-family: Arial;
+  font-size: 25px;
+  padding: 20px;
+  margin-right: 20px;
+}
+
+.block {
+  background: linear-gradient(to top, #ff0000 0%, #ffff00 100%);
+  background-repeat: no-repeat;
+  margin-left: 30px;
+  min-height: 1000px;
+}
+
+.navi {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  text-align: center;
+}
+
+.pic {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.button1 {
+  color: black;
+  text-decoration: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: linear-gradient(to right top, green 0%, #ffff00 100%);
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: lavender;
+  text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.3);
+  width: 300px;
+  height: 30px;
+  font-size: 28px;
+}
+
+.map {
+  text-align: center;
+}
+
+.video {
+  text-align: center;
+}
+
+.button1:hover {
+  box-shadow: 1px 1px blue, 2px 2px blue, 3px 3px blue, 4px 4px blue,
+    5px 5px blue, 6px 6px blue, 7px 7px blue;
+  -webkit-transform: translateX(-7px);
+  transform: translateX(-7px);
+}
