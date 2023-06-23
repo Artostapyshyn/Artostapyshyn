@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Artur Ostapyshyn
-- 💻 Stack: **Java 11+**, **Spring(IoC, Boot, Data Jpa, Security, MVC)**, **Hibernate**, **PostgreSQL/MySQL**, **JDBC**, **Flyway**, **Thymeleaf**, **Swagger**, **JUnit 5**, **Mockito**, **SOLID**, **Postman**, **Maven**, **Git**, **HTML/CSS/JS**.
+- 💻 Stack: **Java 11+**, **Spring(IoC, Boot, Data Jpa, Security, MVC)**, **Hibernate**, **PostgreSQL/MySQL**, **JDBC**, **Flyway**, **Docker**, **Google Cloud**, **Thymeleaf**, **Swagger**, **JUnit 5**, **Mockito**, **SOLID**, **Design patterns**, **Postman**, **Maven**, **Git**, **Linux**, **HTML/CSS/JS**.
 - 📍 I'm from Ukraine, Lviv.
 - 🔥 I value dedication, hard work, and honesty.
 - 🤝 I am looking for job opportunities as a **trainee/junior** java developer.
